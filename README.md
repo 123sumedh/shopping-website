@@ -14,3 +14,6 @@ The project simulates an **online shopping experience** with product listings, c
 
 Output Pictures
 
+<img width="1918" height="1142" alt="image" src="https://github.com/user-attachments/assets/5fa2f120-03f6-4735-8808-65990faeddc6" />
+<img width="1368" height="1008" alt="image" src="https://github.com/user-attachments/assets/d51be9d1-7994-4564-bf09-5d0572e752b2" />
+<img width="1740" height="830" alt="image" src="https://github.com/user-attachments/assets/5a818606-0637-42d2-a69b-43158e98dbfa" />
